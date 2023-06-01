@@ -14,30 +14,6 @@ header {
   display: inline;
 }
 
-/* nav {
-  background-color: #4b9efa;
-  padding: 5px;
-  position: sticky;
-  top: 0;
-}
-
-nav ul {
-  padding-inline: 4rem;
-  display: flex;
-  gap: 2rem;
-}
-
-nav li {
-  list-style-type: none;
-}
-
-nav a {
-  font-size: 18px;
-  font-weight: 400;
-  text-decoration: none;
-  color: white;
-} */
-
 nav {
   justify-content: flex-end;
   width: 100%;
@@ -69,13 +45,6 @@ nav ul li a {
   text-align: center;
   padding: 0px 16px 0px 16px;
   text-decoration:  none;
-}
-
-nav ul li a:hover {
-  text-decoration:  none;
-}
-nav a:hover {
-  font-weight: bold;
 }
 
 main {
